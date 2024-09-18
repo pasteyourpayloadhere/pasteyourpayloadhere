@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋 🌱
 
-- 🔭 I’m currently working on assignments and a ASVS file upload auditor script in Python and AWK.
-- 🌱 I’m currently learning xv6 and C.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with any feedback and any sources of truth for C etc.
-- 💬 Ask me about C pointers.
+- Currently working on assignments and a ASVS v12 file upload auditor script in Python and AWK.
+- Currently learning xv6 and getting more familiar with C.
+- Might be keen to collaborate on the ASVS v12 file upload auditor.
+- Ask me about C pointers, I love them, but sometimes when I think I know them, C throws a curve ball at me and I'm like "huh?".
