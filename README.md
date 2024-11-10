@@ -1,4 +1,4 @@
-## Hi there 👋 🌱
+## About
 
 - Currently working on assignments and a ASVS v12 file upload auditor script in Python and AWK.
 - Currently learning xv6 and getting more familiar with C.
