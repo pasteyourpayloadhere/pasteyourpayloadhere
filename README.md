@@ -15,4 +15,4 @@ bscp (port swigger certificate), ccna (enterprise)
 
 # IT Interests & Skills
 
-linux, xv6, project-management, c, bash, sound-design, audio-engineering
+web hacking, linux, xv6, project-management, c, javascript, bash, sound-design, audio-engineering
