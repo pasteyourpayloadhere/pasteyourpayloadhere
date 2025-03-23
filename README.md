@@ -1,7 +1,7 @@
 # About
 
 ## Projects
-- A ASVS v12 file upload auditor program in C.
+- An ASVS v12 file upload auditor program in C.
 
 ## Certificates
 
