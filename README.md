@@ -10,7 +10,7 @@ Examples include:
 Personal projects such as the file upload auditor, I don't vibe code, they're my 'pet projects'.
 
 ## Projects
-- An ASVS v12 file upload auditor program in C.
+- File upload auditor I'm writing in C.
 
 ## Certificates
 
