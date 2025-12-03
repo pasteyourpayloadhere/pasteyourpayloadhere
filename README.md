@@ -2,8 +2,8 @@
 
 ## Personal Projects vs Vibe Code
 
-Utility projects etc I often vibe code. These include small scripts that I have ideas for, that aid my workflow for a greater purpose.
-Examples:
+Utility scripts etc I often vibe code. These include small scripts that I have ideas for, that aid my workflow for a greater purpose. I wouldn't call them projects, they're more or less "this will be helpful" type scripts.
+Examples include:
 - network daemon checker
 - firewall daemon checker
 
