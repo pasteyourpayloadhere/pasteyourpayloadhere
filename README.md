@@ -14,7 +14,7 @@ Personal projects such as the file upload auditor, I don't vibe code, they're my
 
 ## Certificates
 
-bscp (port swigger certificate), ccna (enterprise)
+bscp (port swigger certificate), ccna (enterprise and network security)
 
 ## IT Interests & Skills
 
