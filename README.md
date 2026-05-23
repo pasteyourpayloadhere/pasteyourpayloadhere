@@ -26,4 +26,7 @@ web hacking, linux, xv6, project-management, c, javascript, bash, sound-design, 
 
 ## Spotify Artist: gatty
 
+As a hobby, I was a sound designer and audio engineer from roughly 2011 to 2021.
+My Spotify artist page, gatty, contains some of the tracks I produced in 2020~ and 2021~.
+
 https://open.spotify.com/artist/1jduZbnqoYscVSwKhpghe8?si=1Uv21mGHTEOAZdN7nr1L5g
