@@ -23,3 +23,7 @@ web hacking, linux, xv6, project-management, c, javascript, bash, sound-design, 
 ## Interests
 - Favourite music artists are Jakob (post-rock) and deadmau5 (progressive house)
 - Favourite Languages are C and JavaScript
+
+## Spotify Artist: gatty
+
+https://open.spotify.com/artist/1jduZbnqoYscVSwKhpghe8?si=1Uv21mGHTEOAZdN7nr1L5g
